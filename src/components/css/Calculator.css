@@ -1,0 +1,56 @@
+.input[type=text] {
+  margin-top: 10px;
+  width: 190%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  margin-left: 286%;
+}
+
+.input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+.button {
+  margin-top: 20px;
+  width: 105px;
+  height: 60px;
+}
+
+.hr {
+  border-color: #000;
+  border-style: solid;
+  border-bottom-width: 0px;
+  width: 25%;
+  margin-top: 35px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.hasil{
+  margin-top: 50px;
+  margin-left: 37.6%;
+}
+
+.output {
+  margin-top: 50px;
+  margin-left: 19%;
+}
+
+.checkbox {
+  margin-left: 52%;
+  margin-top: 25px;
+}
+
+input[type=checkbox]
+{
+  -ms-transform: scale(2);
+  -moz-transform: scale(2);
+  -webkit-transform: scale(2);
+  -o-transform: scale(2); 
+  transform: scale(2);
+}
